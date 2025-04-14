@@ -1,4 +1,4 @@
-![Header]([https://media1.giphy.com/headers/clubdoauto/fjDIBvQjjE3G.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRzdDc3anB0cno0djQ4cno1YnYxd2hmZWs2Z3BpZmVyN3Q2Nm83ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif))
+![Header]([https://media1.giphy.com/headers/clubdoauto/fjDIBvQjjE3G.gif)
 <!--
 **nordquist/nordquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
